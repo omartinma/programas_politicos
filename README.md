@@ -1,7 +1,7 @@
 # programas_politicos
 Proyecto final para SaturdaysAI
 
-De todo ello sale la idea de analizar el impacto o no que puede tener la elaboración de un programa electoral. Por ello partimos de muchas preguntas iniciales:
+La idea inicial de este proyecto es analizar el impacto que puede tener o no un determinado programa electoral en los resultados electorales de un partido. Para ello partimos de las siguientes interrogantes:
 
 ¿Influye el vocabulario elegido?
 ¿Influye la manera a tratar ciertos temas?
